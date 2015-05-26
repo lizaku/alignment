@@ -1,5 +1,6 @@
 # alignment
-Repository for storing the project "Automatic alignment of dictionaries for closely related languages"
+Repository for storing the project "Automatic alignment of dictionaries for closely related languages".
+See more in the paper (Automatic_alignment.pdf).
 
 # alignment.py
 В скрипте alignment.py мы перебираем леммы казахского и татарского языков и ищем наиболее близкие друг к другу строки с помощью расстояния Левенштейна, которое вычисляется в скрипте levenshtein.py
